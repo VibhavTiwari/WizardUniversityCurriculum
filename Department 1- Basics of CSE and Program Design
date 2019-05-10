@@ -13,7 +13,7 @@ Principles and Paradigms of Programming Languages
 Intro to Python
 History of Python
 Python Installation
-Features,
+Features
 Basics of Python
 Literals
 Delimiters
@@ -55,6 +55,7 @@ Generators and Coroutines
 
 *Course 6- Program Design*
 Elements of Design
+Basics of UI and UX Design
 Golden Ratio
 Material Design
 Microsoft Fluent Design System
