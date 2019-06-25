@@ -20,9 +20,9 @@ As of now, there are 10 departments in the university under Computer Science and
 2. Hardware, Digital Logic, and Embedded Systems. 
 3. Mathematics of Computer Science and Engineering
 4. Theoretical Computer Science, Software Project Management, and Operating Systems
-5. Computer Networking and Cryptography, Database Managaemnt Systems, and Computer Graphics
+5. Computer Networking and Cryptography, Database Management Systems, and Computer Graphics
 6. Cloud Computing, Artificial Intelligence and Machine Learning, and Robotics
-7. Quatum Physics, Quantum Computing, and Quantum Machine Learning
+7. Quantum Physics, Quantum Computing, and Quantum Machine Learning
 8. Biotechnology and Computational Biology
 9. Open-Source Contribution, Competitive Programming, and Entrepreneurship
 10. Career Preparation in CSE
